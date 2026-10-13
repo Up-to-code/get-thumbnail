@@ -39,3 +39,7 @@ get-thumbnail bigfile.jpg --make-it-tiny
 Remember, with great power comes great responsibility. Use `get-thumbnail` wisely, or you might end up with a photo album for ants!
 
 get-thumbnail: Because sometimes, size does matter! 🔍
+
+## Project links
+
+[Source](https://github.com/Up-to-code/get-thumbnail) · [Issues](https://github.com/Up-to-code/get-thumbnail/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
